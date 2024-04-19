@@ -17,7 +17,7 @@ const Integrantes = () => {
                                     </p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="https://www.linkedin.com/in/ariel-ponce-a8b80711" target="_blank" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/in/ariel-ponce-a8b80711" target="_blank" rel="noreferrer" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ const Integrantes = () => {
                                     </p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="https://www.linkedin.com/in/francodiazluna" target="_blank" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/in/francodiazluna" target="_blank" rel="noreferrer" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -43,7 +43,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 matias@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 cecilia@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 ezequiel@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 mayra@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 zoy@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -103,7 +103,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 lucia@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -115,7 +115,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 lan@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@ const Integrantes = () => {
                                     <p className="card-text">Legajo: 88888 coty@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="#" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>

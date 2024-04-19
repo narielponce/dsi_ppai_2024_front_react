@@ -58,6 +58,16 @@ const Aside = () => {
                 </li>
               </ul>
             </li>
+            <li className="nav-item menu-open">
+              <ul className="nav nav-treeview">
+                <li className="nav-item">
+                  <Link to="/tablas" className="nav-link">
+                    <i className="far fa-circle nav-icon" />
+                    <p>Tablas del sistema</p>
+                  </Link>
+                </li>
+              </ul>
+            </li>
           </ul>
         </nav>
         {/* /.sidebar-menu */}
