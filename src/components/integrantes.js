@@ -111,8 +111,8 @@ const Integrantes = () => {
                             <div className="card" style={{ width: "13rem" }}>
                                 <img src="/userHombre.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <h4 className="card-title">Lan</h4>
-                                    <p className="card-text">Legajo: 88888 lan@gmail.com</p>
+                                    <h4 className="card-title">Lanfranco Pucheta</h4>
+                                    <p className="card-text">Legajo: 88888 lanfranco@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
                                     <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
