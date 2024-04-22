@@ -7,7 +7,7 @@ const Aside = () => {
       {/* Brand Logo */}
       <Link to="/" className="brand-link">
         <img
-          src="/dsilogo.png"
+          src="../assets/dsilogo.png"
           alt="DSI Logo"
           className="brand-image img-circle elevation-3"
           style={{ opacity: ".8" }}
