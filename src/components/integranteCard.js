@@ -1,6 +1,6 @@
-import './integranteCard.css';
+import './IntegranteCard.css';
 
-function IntegranteCard({ nombre, imagen, legajo, email, linkedin }) {
+const IntegranteCard = ({ nombre, imagen, legajo, email, linkedin }) => {
     return (
         <div className="col-md-3 mb-4">
             <div className="card" style={{ width: "13rem" }}>

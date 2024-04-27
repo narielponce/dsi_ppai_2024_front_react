@@ -1,4 +1,4 @@
-import IntegranteCard from './integranteCard'
+import IntegranteCard from './IntegranteCard'
 
 const Integrantes = ({ integrantes }) => {
   return (

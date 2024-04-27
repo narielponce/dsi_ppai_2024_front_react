@@ -1,10 +1,9 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-//import { NavBar, Aside, Inicio, Integrantes, Listado } from './components';
-import Aside from "./components/aside";
-import NavBar from "./components/navBar";
-import Inicio from "./components/inicio";
-import Integrantes from "./components/integrantes";
-import Listado from "./components/listado";
+import Aside from "./components/Aside";
+import NavBar from "./components/NavBar";
+import Inicio from "./components/Inicio";
+import Integrantes from "./components/Integrantes";
+import Listado from "./components/Listado";
 
 const integrantes = [
   {
