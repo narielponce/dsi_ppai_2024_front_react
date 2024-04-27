@@ -1,39 +1,46 @@
-# Getting Started with Create React App
+## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Available Scripts
+> Free React Admin Dashboard made with Material-UI components and React.
 
-### `npm install`
+![preview](public/assets/preview.jpg)
 
-**Primero debemos instalar las dependencias necesarias para el proyecto.**
+## Demo
 
-### `npm run start`
+- [Dashboard Page](https://minimal-kit-react.vercel.app/)
+- [Users Page](https://minimal-kit-react.vercel.app/user)
+- [Products Page](https://minimal-kit-react.vercel.app/products)
+- [Blog Page](https://minimal-kit-react.vercel.app/blog)
+- [Login Page](https://minimal-kit-react.vercel.app/login)
+- [Not Found Page](https://minimal-kit-react.vercel.app/404)
 
-**Para inciar el proyecto**
+## Quick start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Download from Github](https://github.com/minimal-ui-kit/material-kit-react/archive/refs/heads/main.zip) or clone the repo : `git clone https://github.com/minimal-ui-kit/material-kit-react.git`
+- Recommended `Node.js v18.x`.
+- **Install:** `yarn install`
+- **Start:** `yarn dev`
+- **Build:** `yarn build`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Upgrade to PRO Version
 
----
+| Minimal Free     | [Minimal Pro](https://material-ui.com/store/items/minimal-dashboard/) |
+| :--------------- | :-------------------------------------------------------------------- |
+| **6** Demo Pages | **70+** Demo Pages                                                    |
+| -                | Authentication with **Amplify**, **Auth0**, **JWT** and **Firebase**  |
+| -                | [+More components](https://minimals.cc/components)                    |
+| -                | Dark & light mode                                                     |
+| -                | Next.js version                                                       |
+| -                | TypeScript version (Standard Plus and Extended license)               |
+| -                | Design Figma File (Standard Plus and Extended license)                |
+| -                | Complete Users Flows                                                  |
+| -                | Learn more: [Package & License](https://docs.minimals.cc/package)     |
 
-## Estructura de Carpetas y Archivos
+## License
 
-src: Esta carpeta contendrá todo el código fuente de tu aplicación.
+Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
 
-- components: Aquí colocarás todos los componentes React reutilizables. Puedes organizarlos por funcionalidad o tipo de componente.
-- containers: Carpeta para contenedores o componentes de más alto nivel que manejen la lógica de negocio y gestionen la comunicación entre componentes.
-- pages: Contendrá las páginas principales de tu aplicación, cada una representando una vista diferente.
-- assets: Para almacenar imágenes, archivos CSS, fuentes u otros recursos estáticos.
-- services: Archivos que manejan la lógica de negocio relacionada con el backend, como la comunicación con la API.
-- utils: Funciones y utilidades reutilizables en toda la aplicación.
-- contexts: Si utilizas Context API para el manejo del estado global, aquí colocarías los contextos de la aplicación.
-- routes: Aquí definirías las rutas de tu aplicación utilizando React Router, especificando qué componentes se renderizarán en cada ruta.
-- config: Archivos de configuración, como variables de entorno, configuraciones de Firebase, etc.
+## Contact us
 
-public: Esta carpeta contiene los archivos estáticos que se sirven tal cual al navegador (por ejemplo, index.html, favicon.ico).
-
----
+Email: support@minimals.cc
