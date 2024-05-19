@@ -85,13 +85,13 @@ const Integrantes = () => {
                         </div>
                         <div className="col-md-3 mb-4">
                             <div className="card" style={{ width: "13rem" }}>
-                                <img src="/userMujer.png" className="card-img-top" alt="..." />
+                                <img src="/zoi.jpeg" className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <h4 className="card-title">Zoy Lypnik</h4>
-                                    <p className="card-text">Legajo: 88888 zoy@gmail.com</p>
+                                    <h4 className="card-title">Zoi Lypnik</h4>
+                                    <p className="card-text">Legajo: 86495 lypnik.zoi@gmail.com</p>
                                 </div>
                                 <div className="card-footer text-muted">
-                                    <a href="https://www.linkedin.com" className="btn btn-primary">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/in/zoi-lypnik-8092961b1" className="btn btn-primary">LinkedIn</a>
                                 </div>
                             </div>
                         </div>
